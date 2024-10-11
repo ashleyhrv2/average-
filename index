@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Grade Average</title>
+<link rel="stylesheet" type="text/css" href="customize.css"></link>
+<script src= "switchprog.js"></script>
+
+</head>
+<body>
+<h1>Average</h1>
+<label id="lblfullname">Enter full name </label>
+<input type="text" id= "txtfullname"></input><br>
+
+<label id="lblosis">Enter osis number</label>
+<input type="text" id="txtosis"></input><br>
+
+
+<label id="lblcourses">Enter number of courses</label>
+<input type="text" id="txtcourses"></input><br>
+
+<button type ="button" id="btnSubmit">SUBMIT</button><br>
+
+<label id="lblname">Enter course name</label>
+<button type ="button" id="btnaddcourse">+</button>
+
+
+
+</body>
+</html>
